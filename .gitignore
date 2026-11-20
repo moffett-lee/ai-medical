@@ -1,0 +1,18 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+.env.*
+
+# 日志与临时文件
+*.log
+logs/
+.DS_Store
+.ipynb_checkpoints/
